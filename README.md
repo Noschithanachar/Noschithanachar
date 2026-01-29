@@ -57,19 +57,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noschithanachar&show_icons=true&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noschithanachar&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noschithanachar&layout=compact&theme=react&hide_border=true" />
-</p>
 
 ---
 
